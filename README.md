@@ -12,6 +12,8 @@ A Python program for predicting the Gibbs free energy of solvation (Δ*G*°<sub>
 
 ## Requirements
 
+The file `ModelData.pkl`, containing the model parameters, is required.
+
 The following Python packages are required: `RDKit`, `NumPy`, `pickle`
 
 ## Usage
